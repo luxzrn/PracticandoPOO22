@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\Murcielago.h(19,49): warning C4129: '/': secuencia de escape de carácter no reconocida
+C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\main.cpp(4,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\main.cpp(41,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\main.cpp(42,16): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\main.cpp(44,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\main.cpp(70,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PracticandoParcial2.vcxproj -> C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\x64\Debug\PracticandoParcial2.exe

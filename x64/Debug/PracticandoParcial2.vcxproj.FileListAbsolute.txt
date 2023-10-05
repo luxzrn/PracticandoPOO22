@@ -1,0 +1,3 @@
+C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\x64\Debug\PracticandoParcial2.vcxproj.AssemblyReference.cache
+C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\x64\Debug\PracticandoParcial2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Julio\Desktop\CLASES DE PROGRA\PracticandoParcial2\x64\Debug\PracticandoParcial2.exe
